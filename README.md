@@ -1,2 +1,2 @@
 # hello-world
-hello, I new here
+hello, Im new here
